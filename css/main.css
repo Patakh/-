@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Roboto, Arial;
+}
+
+h2 {
+    color: #c8c3c3;
+    font-size: 90px;
+    font-family: Arial;
+}
+
+.grey64 {
+    height: 33vh;
+}
+
+.moneyitems, .section6 .content2 {
+    display: flex;
+}
+
+.section6 .content1 {
+    padding: 50px 120px 120px 120px;
+    height: 70vh;
+}
+
+    .section6 .content1 i {
+        color: #1a1919;
+        margin-top: 10px;
+    }
+
+.section6 content div {
+    width: 400px;
+}
+
+.moneyitem2 {
+    margin-left: 100px;
+}
+
+.section6 .content1 currency {
+    font-size: 20px;
+    margin-left: 6px;
+}
+
+.section6 .content1 money {
+    font-size: 60px
+}
+
+.section6 .content2 currency, .section10 .content2 currency {
+    font-size: 30px;
+    margin-left: 6px;
+}
+
+.section6 .content2 {
+    background: #d3d3d3;
+    padding-left: 120px;
+    height: 30vh;
+    align-items: center;
+}
+
+    .section6 .content2 money, .section10 .content2 money {
+        font-size: 90px
+    }
+
+    .section6 .content2 i {
+        color: #1a1919;
+        margin-top: 10px;
+    }
+
+.section6 .target {
+    margin-left: 100px;
+}
+
+    .section6 .target b {
+        font-size: 30px;
+    }
+
+.section7 {
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+}
+
+    .section7 .content1 {
+        padding: 50px 120px 120px 120px;
+    }
+
+.compans {
+    margin-top: 70px;
+    margin-bottom: 130px;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.text {
+    font-family: Arial;
+    font-size: 31px;
+}
+
+.figure {
+    width: 350px
+}
+
+.crucle {
+    width: 767px;
+    height: 734px;
+    margin-bottom: 12px;
+    border: 130px solid #ef3333;
+    position: relative;
+    border-radius: 50%;
+    left: -50px;
+    bottom: -415px;
+}
+
+.contentMain {
+    display: flex;
+}
+
+.section10 {
+    height: 100vh;
+    overflow: hidden;
+    padding: 50px 0px 120px 120px;
+}
+
+    .section10 h2 {
+        margin-bottom: 80px
+    }
+
+    .section10 h6 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    .section10 li {
+        margin-bottom: 40px;
+        list-style-type: none;
+    }
+
+        .section10 li p, .section10 .blocktarget b {
+            font-size: 23px;
+        }
+
+    .section10 .content1 {
+        margin-right: 110px;
+    }
+
+    .section10 .content2 {
+        margin-bottom:120px;
+    }
+
+    .section10 .blocktarget {
+        background: #d3d3d3;
+        width: 100%;
+        height:100%;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+    }
+
+    .section10 .target {
+        margin-bottom: 20px;
+    }
+
+.section11 {
+    height: 100vh;
+    overflow: hidden;
+    padding: 50px 0px 120px 120px;
+}
+
+    .section11 .content1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.crucle-block{
+    display:flex;
+}
+.section11 .contentMain p{
+    font-size:18px; 
+    font-weight:600;
+}
+
+.section11 .crucle-blye {
+    width: 20px;
+    height: 20px;
+    font-size: 5px;
+    border: 15px solid #2b68e6;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+    .section11 .radius-blye {
+        width: 300px;
+        height: 300px;
+        border: 40px solid #2b68e6;
+        border-radius: 50%;
+        margin-left: 50px;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+
+    }
+.section11 .content2 {
+    background: #dcdcdc;
+    width: 100%;
+    height: 100%;
+    padding: 50px 30px 30px 45px;
+    margin-left:450px;
+}
+
+.section11 li {
+    margin-bottom: 25px;
+    font-size:16px;
+    font-family:Arial;
+    list-style-type: none;
+}
